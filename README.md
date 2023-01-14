@@ -8,3 +8,5 @@ It's a path finding and maze generation algorithm visualizer made in processing 
 2. BFS path finding
 3. DFS path finding
 4. Recursive backtracking maze generation
+
+Get the executables [here](https://drive.google.com/drive/folders/1Fry0zNAIJszeRXSoAFQZVS-PbI27iBQ3?usp=sharing)
