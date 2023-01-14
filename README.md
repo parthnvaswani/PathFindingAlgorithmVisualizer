@@ -9,4 +9,6 @@ It's a path finding and maze generation algorithm visualizer made in processing 
 3. DFS path finding
 4. Recursive backtracking maze generation
 
-Get the executables [here](https://drive.google.com/drive/folders/1Fry0zNAIJszeRXSoAFQZVS-PbI27iBQ3?usp=sharing)
+Get the documentation [here](https://github.com/parthnvaswani/PathFindingAlgorithmVisualizer/blob/main/Path%20Finding%20Algorithm%20Visualizer.pdf).
+
+Get the executables [here](https://drive.google.com/drive/folders/1Fry0zNAIJszeRXSoAFQZVS-PbI27iBQ3?usp=sharing).
